@@ -1,0 +1,98 @@
+{
+  "script": [
+    {
+      "script_text": "大雄：怎么办？怎么办？",
+      "vocab": [
+        {
+          "SC_vocab": "怎么办",
+          "TC_vocab": "怎麼辦",
+          "english_meaning": "What to do"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：怎么办哪？",
+      "vocab": []
+    },
+    {
+      "script_text": "哆啦A夢：嗯… 完全想不通。",
+      "vocab": [
+        {
+          "SC_vocab": "嗯",
+          "TC_vocab": "嗯",
+          "english_meaning": "Hmm… (thinking sound)"
+        },
+        {
+          "SC_vocab": "想不通",
+          "TC_vocab": "想不通",
+          "english_meaning": "cannot figure it out"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A夢：你到底在发什么愁哇？",
+      "vocab": [
+        {
+          "SC_vocab": "发愁",
+          "TC_vocab": "發愁",
+          "english_meaning": "to worry / be anxious"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：明天算术、语文都要测验了。",
+      "vocab": [
+        {
+          "SC_vocab": "算术",
+          "TC_vocab": "算術",
+          "english_meaning": "Arithmetic"
+        },
+        {
+          "SC_vocab": "测验",
+          "TC_vocab": "測驗",
+          "english_meaning": "Test / Exam"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A夢：可你拿着水壶和枕头干什么？",
+      "vocab": [
+        {
+          "SC_vocab": "水壶",
+          "TC_vocab": "水壺",
+          "english_meaning": "Water kettle"
+        },
+        {
+          "SC_vocab": "枕头",
+          "TC_vocab": "枕頭",
+          "english_meaning": "Pillow"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：看起来一点儿关系都没有。",
+      "vocab": [
+        {
+          "SC_vocab": "看起来",
+          "TC_vocab": "看起來",
+          "english_meaning": "it looks like"
+        },
+        {
+          "SC_vocab": "关系",
+          "TC_vocab": "關係",
+          "english_meaning": "relationship"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：就是说，我着急的都分不清东西了。",
+      "vocab": [
+        {
+          "SC_vocab": "着急",
+          "TC_vocab": "著急",
+          "english_meaning": "anxious"
+        }
+      ]
+    }
+  ]
+}

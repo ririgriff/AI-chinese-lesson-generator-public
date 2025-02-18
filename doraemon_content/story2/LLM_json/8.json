@@ -1,0 +1,114 @@
+{
+  "script_list": [
+    {
+      "script_text": "大雄：虽然说有些怪……可这样也不错嘛。",
+      "vocab": [
+        {
+          "SC_vocab": "怪",
+          "TC_vocab": "怪",
+          "english_meaning": "strange"
+        },
+        {
+          "SC_vocab": "不错",
+          "TC_vocab": "不錯",
+          "english_meaning": "not bad"
+        }
+      ]
+    },
+    {
+      "script_text": "女孩：嗯？作业。 大雄：不许看我的作业本。",
+      "vocab": [
+        {
+          "SC_vocab": "作业",
+          "TC_vocab": "作業",
+          "english_meaning": "homework"
+        },
+        {
+          "SC_vocab": "不许",
+          "TC_vocab": "不許",
+          "english_meaning": "not allowed"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：上面全是错的，真不愿给她看。",
+      "vocab": [
+        {
+          "SC_vocab": "错",
+          "TC_vocab": "錯",
+          "english_meaning": "mistake"
+        },
+        {
+          "SC_vocab": "不愿",
+          "TC_vocab": "不願",
+          "english_meaning": "not willing"
+        }
+      ]
+    },
+    {
+      "script_text": "罗子：真好！这种错得太有个性，太特别了。别人怎么也学不会啊。",
+      "vocab": [
+        {
+          "SC_vocab": "个性",
+          "TC_vocab": "個性",
+          "english_meaning": "personality"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：这是表扬我吗？",
+      "vocab": [
+        {
+          "SC_vocab": "表扬",
+          "TC_vocab": "表揚",
+          "english_meaning": "praise"
+        }
+      ]
+    },
+    {
+      "script_text": "罗子：那就写出能让老师喜欢的答案。 大雄：老师会生气的。",
+      "vocab": [
+        {
+          "SC_vocab": "能让",
+          "TC_vocab": "能讓",
+          "english_meaning": " able to make"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：老师会生气的。",
+      "vocab": []
+    },
+    {
+      "script_text": "妈妈：大雄，去帮我跑腿。",
+      "vocab": [
+        {
+          "SC_vocab": "跑腿",
+          "TC_vocab": "跑腿",
+          "english_meaning": "run errands"
+        }
+      ]
+    },
+    {
+      "script_text": "女孩：要出去买东西？ 啊，太可怜了！",
+      "vocab": [
+        {
+          "SC_vocab": "可怜",
+          "TC_vocab": "可憐",
+          "english_meaning": "pitiful"
+        }
+      ]
+    },
+
+    {
+      "script_text": "女孩：让我去吧。",
+      "vocab": [
+        {
+          "SC_vocab": "让我",
+          "TC_vocab": "讓我",
+          "english_meaning": "let me"
+        }
+      ]
+    }
+  ]
+}

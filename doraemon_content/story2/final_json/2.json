@@ -1,0 +1,28 @@
+{
+  "script_list": [
+    {
+      "script_text": "大雄：所以我这就去。",
+      "vocab": []
+    },
+    {
+      "script_text": "哆啦A梦：真无聊。",
+      "vocab": [
+        {
+          "SC_vocab": "无聊",
+          "TC_vocab": "無聊",
+          "english_meaning": "bored"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：只要他自己满足，也就行了。",
+      "vocab": [
+        {
+          "SC_vocab": "满足",
+          "TC_vocab": "滿足",
+          "english_meaning": "to be satisfied"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "script_list": [
+    {
+      "script_text": "哆啦A梦：有女孩子称赞他是件多难得的事呀。",
+      "vocab": [
+        {
+          "SC_vocab": "称赞",
+          "TC_vocab": "稱讚",
+          "english_meaning": "praise"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：结果，一下子就被抛弃了。",
+      "vocab": [
+        {
+          "SC_vocab": "抛弃",
+          "TC_vocab": "拋棄",
+          "english_meaning": "abandon"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：好！我给你介绍个女朋友吧。",
+      "vocab": [
+        {
+          "SC_vocab": "介绍",
+          "TC_vocab": "介紹",
+          "english_meaning": "introduce"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：我要带个最好的女孩子来。",
+      "vocab": []
+    },
+    {
+      "script_text": "大雄：一个人真没劲，做作业吧。",
+      "vocab": [
+        {
+          "SC_vocab": "作业",
+          "TC_vocab": "作業",
+          "english_meaning": "homework"
+        },
+        {
+          "SC_vocab": "没劲",
+          "TC_vocab": "沒勁",
+          "english_meaning": "boring"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：嗯，别怕羞，站出来吧。",
+      "vocab": [
+        {
+          "SC_vocab": "别怕羞",
+          "TC_vocab": "別怕羞",
+          "english_meaning": "don't be shy"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：介绍一下，这是来自未来世界的罗子小姐。",
+      "vocab": [
+        {
+          "SC_vocab": "未来",
+          "TC_vocab": "未來",
+          "english_meaning": "the future"
+        },
+        {
+          "SC_vocab": "罗",
+          "TC_vocab": "羅",
+          "english_meaning": "surname Luo"
+        }
+      ]
+    }
+  ]
+}

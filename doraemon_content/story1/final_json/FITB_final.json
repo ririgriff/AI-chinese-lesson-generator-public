@@ -1,0 +1,272 @@
+{
+  "FITB_questions": [
+    {
+      "count": 1,
+      "sentence": "哆啦A梦：你到底是在发什么愁啊？",
+      "vocab": "发愁",
+      "complete_sentence": "哆啦A梦：你到底是在发什么愁啊？",
+      "seg": true
+    },
+    {
+      "count": 2,
+      "sentence": "哆啦A梦：你_________是在发什么愁啊？",
+      "vocab": "到底",
+      "complete_sentence": "哆啦A梦：你到底是在发什么愁啊？"
+    },
+    {
+      "count": 3,
+      "sentence": "大雄：明天_________、语文都要测验了。",
+      "vocab": "算术",
+      "complete_sentence": "大雄：明天算术、语文都要测验了。",
+      "seg": true
+    },
+    {
+      "count": 4,
+      "sentence": "大雄：明天算术、语文都要_________了。",
+      "vocab": "测验",
+      "complete_sentence": "大雄：明天算术、语文都要测验了。"
+    },
+    {
+      "count": 5,
+      "sentence": "哆啦A梦：可你拿着_________和枕头干什么？",
+      "vocab": "水壶",
+      "complete_sentence": "哆啦A梦：可你拿着水壶和枕头干什么？",
+      "seg": true
+    },
+    {
+      "count": 6,
+      "sentence": "哆啦A梦：可你拿着水壶和_________干什么？",
+      "vocab": "枕头",
+      "complete_sentence": "哆啦A梦：可你拿着水壶和枕头干什么？"
+    },
+    {
+      "count": 7,
+      "sentence": "大雄：就是说，我_________得都分不清东西了。",
+      "vocab": "着急",
+      "complete_sentence": "大雄：就是说，我着急得都分不清东西了。",
+      "seg": true
+    },
+    {
+      "count": 8,
+      "sentence": "大雄：就是说，我着急得都分不清_________了。",
+      "vocab": "东西",
+      "complete_sentence": "大雄：就是说，我着急得都分不清东西了。"
+    },
+    {
+      "count": 9,
+      "sentence": "哆啦A梦：那好，用这个_________...",
+      "vocab": "电风扇",
+      "complete_sentence": "哆啦A梦：那好，用这个电风扇..."
+    },
+    {
+      "count": 10,
+      "sentence": "大雄：这样下去，可要得_________了呀。",
+      "vocab": "零分",
+      "complete_sentence": "大雄：这样下去，可要得零分了呀。",
+      "seg": true
+    },
+    {
+      "count": 11,
+      "sentence": "哆啦A梦：那用这个一动灯，把_________变成猿师一动……猿！",
+      "vocab": "老师",
+      "complete_sentence": "哆啦A梦：那用这个一动灯，把老师变成猿师一动……猿！"
+    },
+    {
+      "count": 12,
+      "sentence": "大雄：把学校吹走就不会有_________了。",
+      "vocab": "测验",
+      "complete_sentence": "大雄：把学校吹走就不会有测验了。"
+    },
+    {
+      "count": 13,
+      "sentence": "大雄：以后我一定_________，就帮我这一回吧。",
+      "vocab": "好好学习",
+      "complete_sentence": "大雄：以后我一定好好学习，就帮我这一回吧。",
+      "seg": true
+    },
+    {
+      "count": 14,
+      "sentence": "哆啦A梦：这都怪你_________不认真学习。",
+      "vocab": "平常",
+      "complete_sentence": "哆啦A梦：这都怪你平常不认真学习。",
+      "seg": true
+    },
+    {
+      "count": 15,
+      "sentence": "哆啦A梦：用这个「一_________面包」吧。",
+      "vocab": "背书",
+      "complete_sentence": "哆啦A梦：用这个「一背书面包」吧。"
+    },
+    {
+      "count": 16,
+      "sentence": "哆啦A梦：用这个「一背书_________」吧。",
+      "vocab": "面包",
+      "complete_sentence": "哆啦A梦：用这个「一背书面包」吧。",
+      "seg": true
+    },
+    {
+      "count": 17,
+      "sentence": "哆啦A梦：这样就能把一整页的东西都_________了！",
+      "vocab": "记住",
+      "complete_sentence": "哆啦A梦：这样就能把一整页的东西都记住了！",
+      "seg": true
+    },
+    {
+      "count": 18,
+      "sentence": "哆啦A梦：像这样把_________、语文书和练习册的内容都背下来了，总会有作用的。",
+      "vocab": "算术",
+      "complete_sentence": "哆啦A梦：像这样把算术、语文书和练习册的内容都背下来了，总会有作用的。"
+    },
+    {
+      "count": 19,
+      "sentence": "哆啦A梦：像这样把算术、语文书和练习册的内容都背下来了，总会有_________的。",
+      "vocab": "作用",
+      "complete_sentence": "哆啦A梦：像这样把算术、语文书和练习册的内容都背下来了，总会有作用的。"
+    },
+    {
+      "count": 20,
+      "sentence": "大雄：哎呀，这里_________的一页不见了。",
+      "vocab": "最重要",
+      "complete_sentence": "大雄：哎呀，这里最重要的一页不见了。",
+      "seg": true
+    },
+    {
+      "count": 21,
+      "sentence": "大雄：对了，上次想_________时，没有纸就把它撕下来了。",
+      "vocab": "擦鼻涕",
+      "complete_sentence": "大雄：对了，上次想擦鼻涕时，没有纸就把它撕下来了。"
+    },
+    {
+      "count": 22,
+      "sentence": "大雄：对了，上次想擦鼻涕时，没有纸就把它_________了。",
+      "vocab": "撕下来",
+      "complete_sentence": "大雄：对了，上次想擦鼻涕时，没有纸就把它撕下来了。"
+    },
+    {
+      "count": 23,
+      "sentence": "大雄：还是静香的本子_________干净，把这些全都记下来。",
+      "vocab": "整齐",
+      "complete_sentence": "大雄：还是静香的本子整齐干净，把这些全都记下来。"
+    },
+    {
+      "count": 24,
+      "sentence": "大雄：还是静香的本子整齐_________，把这些全都记下来。",
+      "vocab": "干净",
+      "complete_sentence": "大雄：还是静香的本子整齐干净，把这些全都记下来。"
+    },
+    {
+      "count": 25,
+      "sentence": "静香：要能那么_________也不用这么辛苦了。",
+      "vocab": "简单",
+      "complete_sentence": "静香：要能那么简单也不用这么辛苦了。"
+    },
+    {
+      "count": 26,
+      "sentence": "静香：不信？看我的，就用这_________...",
+      "vocab": "电话本",
+      "complete_sentence": "静香：不信？看我的，就用这电话本..."
+    },
+    {
+      "count": 27,
+      "sentence": "静香：你光吃_________看漫画，就不学习了吗？",
+      "vocab": "点心",
+      "complete_sentence": "静香：你光吃点心看漫画，就不学习了吗？"
+    },
+    {
+      "count": 28,
+      "sentence": "静香：你光吃点心看漫画，就不_________了吗？",
+      "vocab": "学习",
+      "complete_sentence": "静香：你光吃点心看漫画，就不学习了吗？"
+    },
+    {
+      "count": 29,
+      "sentence": "大雄：_________，把本子借我用一下。",
+      "vocab": "对不起",
+      "complete_sentence": "大雄：对不起，把本子借我用一下。"
+    },
+    {
+      "count": 30,
+      "sentence": "大雄：对不起，把_________借我用一下。",
+      "vocab": "本子",
+      "complete_sentence": "大雄：对不起，把本子借我用一下。"
+    },
+    {
+      "count": 31,
+      "sentence": "爸爸：哪儿去了？该_________了。 大雄：我不想吃。",
+      "vocab": "吃饭",
+      "complete_sentence": "爸爸：哪儿去了？该吃饭了。 大雄：我不想吃。"
+    },
+    {
+      "count": 32,
+      "sentence": "爸爸：哪儿去了？该吃饭了。 大雄：我_________吃。",
+      "vocab": "不想",
+      "complete_sentence": "爸爸：哪儿去了？该吃饭了。 大雄：我不想吃。"
+    },
+    {
+      "count": 33,
+      "sentence": "爸爸：今天是_________。 妈妈：真是太好吃了。",
+      "vocab": "母亲节",
+      "complete_sentence": "爸爸：今天是母亲节。 妈妈：真是太好吃了。"
+    },
+    {
+      "count": 34,
+      "sentence": "哆啦A梦：我_________给了你面包，你却……",
+      "vocab": "好心好意",
+      "complete_sentence": "哆啦A梦：我好心好意给了你面包，你却……"
+    },
+    {
+      "count": 35,
+      "sentence": "哆啦A梦：我好心好意给了你_________，你却……",
+      "vocab": "面包",
+      "complete_sentence": "哆啦A梦：我好心好意给了你面包，你却……"
+    },
+    {
+      "count": 36,
+      "sentence": "大雄：我把_________借来了，现在就开始记。",
+      "vocab": "本子",
+      "complete_sentence": "大雄：我把本子借来了，现在就开始记。"
+    },
+    {
+      "count": 37,
+      "sentence": "大雄：我把本子借来了，现在就_________记。",
+      "vocab": "开始",
+      "complete_sentence": "大雄：我把本子借来了，现在就开始记。"
+    },
+    {
+      "count": 38,
+      "sentence": "哆啦A梦：_________也要让你吃下去。",
+      "vocab": "无论如何",
+      "complete_sentence": "哆啦A梦：无论如何也要让你吃下去。"
+    },
+    {
+      "count": 39,
+      "sentence": "哆啦A梦：无论如何也要让你_________。",
+      "vocab": "吃下去",
+      "complete_sentence": "哆啦A梦：无论如何也要让你吃下去。"
+    },
+    {
+      "count": 40,
+      "sentence": "父亲：什么？大雄在_________呆了一小时了？",
+      "vocab": "厕所",
+      "complete_sentence": "父亲：什么？大雄在厕所呆了一小时了？"
+    },
+    {
+      "count": 41,
+      "sentence": "哆啦A梦：吃得太多，_________了吗？糟了……",
+      "vocab": "坏肚子",
+      "complete_sentence": "哆啦A梦：吃得太多，坏肚子了吗？糟了……"
+    },
+    {
+      "count": 42,
+      "sentence": "哆啦A梦：把_________的东西都给拉出来了。",
+      "vocab": "记下",
+      "complete_sentence": "哆啦A梦：把记下的东西都给拉出来了。"
+    },
+    {
+      "count": 43,
+      "sentence": "哆啦A梦：只好从第一页起_________吃。",
+      "vocab": "重新",
+      "complete_sentence": "哆啦A梦：只好从第一页起重新吃。"
+    }
+  ]
+}

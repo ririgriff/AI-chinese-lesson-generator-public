@@ -1,0 +1,103 @@
+{
+  "script_list": [
+    {
+      "script_text": "罗子：你这谦虚，真是个优秀的少年。",
+      "vocab": [
+        {
+          "SC_vocab": "谦虚",
+          "TC_vocab": "謙虛",
+          "english_meaning": "being modest"
+        },
+        {
+          "SC_vocab": "优秀",
+          "TC_vocab": "優秀",
+          "english_meaning": "excellent"
+        }
+      ]
+    },
+    {
+      "script_text": "罗子：你是全日本最好的男孩子。",
+      "vocab": [
+        {
+          "SC_vocab": "全日本",
+          "TC_vocab": "全日本",
+          "english_meaning": "the whole country of Japan"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：我有生以来还是头一次听人这么说。",
+      "vocab": [
+        {
+          "SC_vocab": "有生以来",
+          "TC_vocab": "有生以來",
+          "english_meaning": "since I was born"
+        },
+        {
+          "SC_vocab": "头一次",
+          "TC_vocab": "頭一次",
+          "english_meaning": "first time"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：对了，我只有一件拿手的绝活儿。",
+      "vocab": [
+        {
+          "SC_vocab": "拿手",
+          "TC_vocab": "拿手",
+          "english_meaning": "skilled"
+        },
+        {
+          "SC_vocab": "绝活儿",
+          "TC_vocab": "絕活兒",
+          "english_meaning": "special trick"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：你瞧着。",
+      "vocab": [
+        {
+          "SC_vocab": "瞧着",
+          "TC_vocab": "瞧著",
+          "english_meaning": "look at this"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：吧唧！吧唧！",
+      "vocab": []
+    },
+    {
+      "script_text": "女孩：真棒！",
+      "vocab": [
+        {
+          "SC_vocab": "真棒",
+          "TC_vocab": "真棒",
+          "english_meaning": "wonderful"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：口又渴了。",
+      "vocab": [
+        {
+          "SC_vocab": "渴了",
+          "TC_vocab": "渴了",
+          "english_meaning": "thirsty"
+        }
+      ]
+    },
+    {
+      "script_text": "罗子：请喝水。",
+      "vocab": [
+        {
+          "SC_vocab": "喝水",
+          "TC_vocab": "喝水",
+          "english_meaning": "drink water"
+        }
+      ]
+    }
+  ]
+}

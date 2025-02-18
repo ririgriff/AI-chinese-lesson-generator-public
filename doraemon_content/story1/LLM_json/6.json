@@ -1,0 +1,83 @@
+{
+  "script_list": [
+    {
+      "script_text": "静香：你可是班里记性最差的呀！",
+      "vocab": [
+        { "SC_vocab": "记性", "TC_vocab": "記性", "english_meaning": "memory" }
+      ]
+    },
+    {
+      "script_text": "静香：不信？看我的，就用这电话本...",
+      "vocab": [
+        {
+          "SC_vocab": "电话本",
+          "TC_vocab": "電話本",
+          "english_meaning": "phone book"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：第一页的我全记住了。",
+      "vocab": [
+        {
+          "SC_vocab": "第一页",
+          "TC_vocab": "第一頁",
+          "english_meaning": "first page"
+        }
+      ]
+    },
+    { "script_text": "静香：？", "vocab": [] },
+    {
+      "script_text": "静香：哇！全对了。",
+      "vocab": [
+        {
+          "SC_vocab": "全对",
+          "TC_vocab": "全對",
+          "english_meaning": "all correct"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：小意思，小意思。",
+      "vocab": [
+        {
+          "SC_vocab": "小意思",
+          "TC_vocab": "小意思",
+          "english_meaning": "piece of cake"
+        }
+      ]
+    },
+    { "script_text": "大雄：999……", "vocab": [] },
+    { "script_text": "静香：柿久家的呢？", "vocab": [] },
+    { "script_text": "大雄：1234567？", "vocab": [] },
+    {
+      "script_text": "大雄：井上男的电话是……",
+      "vocab": [
+        { "SC_vocab": "电话", "TC_vocab": "電話", "english_meaning": "phone" }
+      ]
+    },
+    {
+      "script_text": "大雄：测验一定要拿一百分。",
+      "vocab": [
+        { "SC_vocab": "测验", "TC_vocab": "測驗", "english_meaning": "test" },
+        {
+          "SC_vocab": "一百分",
+          "TC_vocab": "一百分",
+          "english_meaning": "100 points"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：嗯，真羡慕。",
+      "vocab": [
+        { "SC_vocab": "羡慕", "TC_vocab": "羨慕", "english_meaning": "envy" }
+      ]
+    },
+    {
+      "script_text": "妈妈：来，吃点心吧。",
+      "vocab": [
+        { "SC_vocab": "点心", "TC_vocab": "點心", "english_meaning": "snacks" }
+      ]
+    }
+  ]
+}

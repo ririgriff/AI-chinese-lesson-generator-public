@@ -1,0 +1,68 @@
+{
+  "script_list": [
+    {
+      "script_text": "母亲：又跑到哪儿玩儿去了？",
+      "vocab": []
+    },
+    {
+      "script_text": "罗子：想欺负大雄？",
+      "vocab": [
+        {
+          "SC_vocab": "欺负",
+          "TC_vocab": "欺負",
+          "english_meaning": "bully"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：妈妈，危险！",
+      "vocab": [
+        {
+          "SC_vocab": "危险",
+          "TC_vocab": "危險",
+          "english_meaning": "danger"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：哆啦A梦！",
+      "vocab": []
+    },
+    {
+      "script_text": "大雄：你不能找个老实点儿的机器吗？",
+      "vocab": [
+        {
+          "SC_vocab": "老实",
+          "TC_vocab": "老實",
+          "english_meaning": "honest"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：可是好的机器租金很贵的呀。",
+      "vocab": [
+        {
+          "SC_vocab": "机器",
+          "TC_vocab": "機器",
+          "english_meaning": "machine"
+        },
+        {
+          "SC_vocab": "租金",
+          "TC_vocab": "租金",
+          "english_meaning": "rent"
+        }
+      ]
+    },
+
+    {
+      "script_text": "卷发女士：来，我们交个朋友吧！",
+      "vocab": [
+        {
+          "SC_vocab": "卷发",
+          "TC_vocab": "卷髮",
+          "english_meaning": "curly hair"
+        }
+      ]
+    }
+  ]
+}

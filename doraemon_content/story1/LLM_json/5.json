@@ -1,0 +1,91 @@
+{
+  "script_list": [
+    {
+      "script_text": "大雄：哎呀，这里最重要的一页不见了。",
+      "vocab": [
+        {
+          "SC_vocab": "最重要",
+          "TC_vocab": "最重要",
+          "english_meaning": "the most important"
+        }
+      ]
+    },
+    { "script_text": "哆啦A梦：瞪你干的！", "vocab": [] },
+    {
+      "script_text": "大雄：对了，上次想擦鼻涕时，没有纸就把它撕下来了。",
+      "vocab": [
+        {
+          "SC_vocab": "擦鼻涕",
+          "TC_vocab": "擦鼻涕",
+          "english_meaning": "wipe your nose"
+        },
+        {
+          "SC_vocab": "撕下来",
+          "TC_vocab": "撕下來",
+          "english_meaning": "tear off"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：去借印朋友的笔记吧。",
+      "vocab": [
+        { "SC_vocab": "笔记", "TC_vocab": "筆記", "english_meaning": "notes" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：把背书面包都给你。",
+      "vocab": [
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    {
+      "script_text": "大雄：印在面包上怎么吃得下呢？",
+      "vocab": [
+        { "SC_vocab": "怎么", "TC_vocab": "怎麼", "english_meaning": "how" }
+      ]
+    },
+    {
+      "script_text": "小夫：这说明我用功嘛。",
+      "vocab": [
+        {
+          "SC_vocab": "用功",
+          "TC_vocab": "用功",
+          "english_meaning": "study hard"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：怎么写得这么乱？",
+      "vocab": [
+        {
+          "SC_vocab": "这么乱",
+          "TC_vocab": "這麼亂",
+          "english_meaning": "so messy"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：还是静香的本子整齐干净，把这些全都记下来。",
+      "vocab": [
+        { "SC_vocab": "整齐", "TC_vocab": "整齊", "english_meaning": "neat" },
+        { "SC_vocab": "干净", "TC_vocab": "乾淨", "english_meaning": "clean" }
+      ]
+    },
+    {
+      "script_text": "静香：要能那么简单也不用这么辛苦了。",
+      "vocab": [
+        { "SC_vocab": "简单", "TC_vocab": "簡單", "english_meaning": "easy" }
+      ]
+    },
+    {
+      "script_text": "大雄：记东西我可是有自信。",
+      "vocab": [
+        {
+          "SC_vocab": "自信",
+          "TC_vocab": "自信",
+          "english_meaning": "confidence"
+        }
+      ]
+    }
+  ]
+}

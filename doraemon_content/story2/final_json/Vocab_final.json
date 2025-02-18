@@ -1,0 +1,202 @@
+{
+  "vocab_list": {
+    "满足": {
+      "SC_vocab": "满足",
+      "TC_vocab": "滿足",
+      "english_meaning": "to be satisfied"
+    },
+    "玩笑": {
+      "SC_vocab": "玩笑",
+      "TC_vocab": "玩笑",
+      "english_meaning": "joke"
+    },
+    "罢了": {
+      "SC_vocab": "罢了",
+      "TC_vocab": "罷了",
+      "english_meaning": "that's all"
+    },
+    "游戏": {
+      "SC_vocab": "游戏",
+      "TC_vocab": "遊戲",
+      "english_meaning": "game"
+    },
+    "于是": {
+      "SC_vocab": "于是",
+      "TC_vocab": "於是",
+      "english_meaning": "so then"
+    },
+    "口干舌燥": {
+      "SC_vocab": "口干舌燥",
+      "TC_vocab": "口乾舌燥",
+      "english_meaning": "dry mouth"
+    },
+    "难受": {
+      "SC_vocab": "难受",
+      "TC_vocab": "難受",
+      "english_meaning": "uncomfortable"
+    },
+    "称赞": {
+      "SC_vocab": "称赞",
+      "TC_vocab": "稱讚",
+      "english_meaning": "praise"
+    },
+    "抛弃": {
+      "SC_vocab": "抛弃",
+      "TC_vocab": "拋棄",
+      "english_meaning": "abandon"
+    },
+    "介绍": {
+      "SC_vocab": "介绍",
+      "TC_vocab": "介紹",
+      "english_meaning": "introduce"
+    },
+    "未来": {
+      "SC_vocab": "未来",
+      "TC_vocab": "未來",
+      "english_meaning": "the future"
+    },
+    "罗": {
+      "SC_vocab": "罗",
+      "TC_vocab": "羅",
+      "english_meaning": "surname Luo"
+    },
+    "漂亮": {
+      "SC_vocab": "漂亮",
+      "TC_vocab": "漂亮",
+      "english_meaning": "beautiful"
+    },
+    "愿意": {
+      "SC_vocab": "愿意",
+      "TC_vocab": "願意",
+      "english_meaning": "willing"
+    },
+    "机器人": {
+      "SC_vocab": "机器人",
+      "TC_vocab": "機器人",
+      "english_meaning": "robot"
+    },
+    "设定": {
+      "SC_vocab": "设定",
+      "TC_vocab": "設定",
+      "english_meaning": "to set up"
+    },
+    "体育": { "SC_vocab": "体育", "TC_vocab": "體育", "english_meaning": "PE" },
+    "成绩": {
+      "SC_vocab": "成绩",
+      "TC_vocab": "成績",
+      "english_meaning": "grades"
+    },
+    "谦虚": {
+      "SC_vocab": "谦虚",
+      "TC_vocab": "謙虛",
+      "english_meaning": "being modest"
+    },
+    "优秀": {
+      "SC_vocab": "优秀",
+      "TC_vocab": "優秀",
+      "english_meaning": "excellent"
+    },
+    "有生以来": {
+      "SC_vocab": "有生以来",
+      "TC_vocab": "有生以來",
+      "english_meaning": "since I was born"
+    },
+    "头一次": {
+      "SC_vocab": "头一次",
+      "TC_vocab": "頭一次",
+      "english_meaning": "first time"
+    },
+    "拿手": {
+      "SC_vocab": "拿手",
+      "TC_vocab": "拿手",
+      "english_meaning": "skilled"
+    },
+    "绝活儿": {
+      "SC_vocab": "绝活儿",
+      "TC_vocab": "絕活兒",
+      "english_meaning": "special trick"
+    },
+    "怪": { "SC_vocab": "怪", "TC_vocab": "怪", "english_meaning": "strange" },
+    "不错": {
+      "SC_vocab": "不错",
+      "TC_vocab": "不錯",
+      "english_meaning": "not bad"
+    },
+    "作业": {
+      "SC_vocab": "作业",
+      "TC_vocab": "作業",
+      "english_meaning": "homework"
+    },
+    "不许": {
+      "SC_vocab": "不许",
+      "TC_vocab": "不許",
+      "english_meaning": "not allowed"
+    },
+    "错": { "SC_vocab": "错", "TC_vocab": "錯", "english_meaning": "mistake" },
+    "不愿": {
+      "SC_vocab": "不愿",
+      "TC_vocab": "不願",
+      "english_meaning": "not willing"
+    },
+    "个性": {
+      "SC_vocab": "个性",
+      "TC_vocab": "個性",
+      "english_meaning": "personality"
+    },
+    "能让": {
+      "SC_vocab": "能让",
+      "TC_vocab": "能讓",
+      "english_meaning": " able to make"
+    },
+    "可怜": {
+      "SC_vocab": "可怜",
+      "TC_vocab": "可憐",
+      "english_meaning": "pitiful"
+    },
+    "不行": {
+      "SC_vocab": "不行",
+      "TC_vocab": "不行",
+      "english_meaning": "no way"
+    },
+    "什么事": {
+      "SC_vocab": "什么事",
+      "TC_vocab": "什麼事",
+      "english_meaning": "anything"
+    },
+    "喜欢": {
+      "SC_vocab": "喜欢",
+      "TC_vocab": "喜歡",
+      "english_meaning": "to like"
+    },
+    "便宜": {
+      "SC_vocab": "便宜",
+      "TC_vocab": "便宜",
+      "english_meaning": "cheap"
+    },
+    "欺负": {
+      "SC_vocab": "欺负",
+      "TC_vocab": "欺負",
+      "english_meaning": "bully"
+    },
+    "保护": {
+      "SC_vocab": "保护",
+      "TC_vocab": "保護",
+      "english_meaning": "protect"
+    },
+    "老实": {
+      "SC_vocab": "老实",
+      "TC_vocab": "老實",
+      "english_meaning": "honest"
+    },
+    "机器": {
+      "SC_vocab": "机器",
+      "TC_vocab": "機器",
+      "english_meaning": "machine"
+    },
+    "租金": {
+      "SC_vocab": "租金",
+      "TC_vocab": "租金",
+      "english_meaning": "rent"
+    }
+  }
+}

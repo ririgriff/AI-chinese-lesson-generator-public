@@ -1,0 +1,83 @@
+{
+  "script_list": [
+    {
+      "script_text": "大雄：不行，不行。不能什么事都叫你做。",
+      "vocab": [
+        {
+          "SC_vocab": "不行",
+          "TC_vocab": "不行",
+          "english_meaning": "no way"
+        },
+        {
+          "SC_vocab": "什么事",
+          "TC_vocab": "什麼事",
+          "english_meaning": "anything"
+        }
+      ]
+    },
+    {
+      "script_text": "女孩：你真好！",
+      "vocab": [
+        {
+          "SC_vocab": "真好",
+          "TC_vocab": "真好",
+          "english_meaning": "really nice"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：……真幸福。",
+      "vocab": [
+        {
+          "SC_vocab": "幸福",
+          "TC_vocab": "幸福",
+          "english_meaning": "happiness"
+        }
+      ]
+    },
+    {
+      "script_text": "女孩：我也是。",
+      "vocab": []
+    },
+    {
+      "script_text": "女孩：你不会喜欢上我以外的人吧？",
+      "vocab": [
+        {
+          "SC_vocab": "喜欢",
+          "TC_vocab": "喜歡",
+          "english_meaning": "to like"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：怎么会呢！我跟你保证！",
+      "vocab": [
+        {
+          "SC_vocab": "保证",
+          "TC_vocab": "保證",
+          "english_meaning": "promise"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：真高兴。",
+      "vocab": [
+        {
+          "SC_vocab": "高兴",
+          "TC_vocab": "高興",
+          "english_meaning": "happy"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：好大的劲。",
+      "vocab": [
+        {
+          "SC_vocab": "劲",
+          "TC_vocab": "勁",
+          "english_meaning": "strength"
+        }
+      ]
+    }
+  ]
+}

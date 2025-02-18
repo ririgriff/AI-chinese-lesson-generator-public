@@ -1,0 +1,199 @@
+{
+  "vocab_list": {
+    "发愁": {
+      "SC_vocab": "发愁",
+      "TC_vocab": "發愁",
+      "english_meaning": "worry"
+    },
+    "到底": {
+      "SC_vocab": "到底",
+      "TC_vocab": "到底",
+      "english_meaning": "exactly"
+    },
+    "算术": {
+      "SC_vocab": "算术",
+      "TC_vocab": "算術",
+      "english_meaning": "arithmetic"
+    },
+    "测验": {
+      "SC_vocab": "测验",
+      "TC_vocab": "測驗",
+      "english_meaning": "test"
+    },
+    "水壶": {
+      "SC_vocab": "水壶",
+      "TC_vocab": "水壺",
+      "english_meaning": "water kettle"
+    },
+    "枕头": {
+      "SC_vocab": "枕头",
+      "TC_vocab": "枕頭",
+      "english_meaning": "pillow"
+    },
+    "着急": {
+      "SC_vocab": "着急",
+      "TC_vocab": "著急",
+      "english_meaning": "anxious"
+    },
+    "东西": {
+      "SC_vocab": "东西",
+      "TC_vocab": "東西",
+      "english_meaning": "things"
+    },
+    "电风扇": {
+      "SC_vocab": "电风扇",
+      "TC_vocab": "電風扇",
+      "english_meaning": "electric fan"
+    },
+    "零分": {
+      "SC_vocab": "零分",
+      "TC_vocab": "零分",
+      "english_meaning": "zero points"
+    },
+    "老师": {
+      "SC_vocab": "老师",
+      "TC_vocab": "老師",
+      "english_meaning": "teacher"
+    },
+    "好好学习": {
+      "SC_vocab": "好好学习",
+      "TC_vocab": "好好學習",
+      "english_meaning": "study hard"
+    },
+    "平常": {
+      "SC_vocab": "平常",
+      "TC_vocab": "平常",
+      "english_meaning": "usually"
+    },
+    "背书": {
+      "SC_vocab": "背书",
+      "TC_vocab": "背書",
+      "english_meaning": "to memorize"
+    },
+    "面包": {
+      "SC_vocab": "面包",
+      "TC_vocab": "麵包",
+      "english_meaning": "bread"
+    },
+    "记住": {
+      "SC_vocab": "记住",
+      "TC_vocab": "記住",
+      "english_meaning": "to remember"
+    },
+    "作用": {
+      "SC_vocab": "作用",
+      "TC_vocab": "作用",
+      "english_meaning": "use"
+    },
+    "最重要": {
+      "SC_vocab": "最重要",
+      "TC_vocab": "最重要",
+      "english_meaning": "the most important"
+    },
+    "擦鼻涕": {
+      "SC_vocab": "擦鼻涕",
+      "TC_vocab": "擦鼻涕",
+      "english_meaning": "wipe your nose"
+    },
+    "撕下来": {
+      "SC_vocab": "撕下来",
+      "TC_vocab": "撕下來",
+      "english_meaning": "tear off"
+    },
+    "整齐": {
+      "SC_vocab": "整齐",
+      "TC_vocab": "整齊",
+      "english_meaning": "neat"
+    },
+    "干净": {
+      "SC_vocab": "干净",
+      "TC_vocab": "乾淨",
+      "english_meaning": "clean"
+    },
+    "简单": {
+      "SC_vocab": "简单",
+      "TC_vocab": "簡單",
+      "english_meaning": "easy"
+    },
+    "电话本": {
+      "SC_vocab": "电话本",
+      "TC_vocab": "電話本",
+      "english_meaning": "phone book"
+    },
+    "点心": {
+      "SC_vocab": "点心",
+      "TC_vocab": "點心",
+      "english_meaning": "snacks"
+    },
+    "学习": {
+      "SC_vocab": "学习",
+      "TC_vocab": "學習",
+      "english_meaning": "study"
+    },
+    "对不起": {
+      "SC_vocab": "对不起",
+      "TC_vocab": "對不起",
+      "english_meaning": "sorry"
+    },
+    "本子": {
+      "SC_vocab": "本子",
+      "TC_vocab": "本子",
+      "english_meaning": "notebook"
+    },
+    "吃饭": {
+      "SC_vocab": "吃饭",
+      "TC_vocab": "吃飯",
+      "english_meaning": "to eat a meal"
+    },
+    "不想": {
+      "SC_vocab": "不想",
+      "TC_vocab": "不想",
+      "english_meaning": "do not want"
+    },
+    "母亲节": {
+      "SC_vocab": "母亲节",
+      "TC_vocab": "母親節",
+      "english_meaning": "Mother's Day"
+    },
+    "好心好意": {
+      "SC_vocab": "好心好意",
+      "TC_vocab": "好心好意",
+      "english_meaning": "with good intentions"
+    },
+    "开始": {
+      "SC_vocab": "开始",
+      "TC_vocab": "開始",
+      "english_meaning": "to start"
+    },
+    "无论如何": {
+      "SC_vocab": "无论如何",
+      "TC_vocab": "無論如何",
+      "english_meaning": "no matter what"
+    },
+    "吃下去": {
+      "SC_vocab": "吃下去",
+      "TC_vocab": "吃下去",
+      "english_meaning": "to swallow it"
+    },
+    "厕所": {
+      "SC_vocab": "厕所",
+      "TC_vocab": "廁所",
+      "english_meaning": "toilet"
+    },
+    "坏肚子": {
+      "SC_vocab": "坏肚子",
+      "TC_vocab": "壞肚子",
+      "english_meaning": "stomach upset"
+    },
+    "记下": {
+      "SC_vocab": "记下",
+      "TC_vocab": "記下",
+      "english_meaning": "to note down"
+    },
+    "重新": {
+      "SC_vocab": "重新",
+      "TC_vocab": "重新",
+      "english_meaning": "again"
+    }
+  }
+}

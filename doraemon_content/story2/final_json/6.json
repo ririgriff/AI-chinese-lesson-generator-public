@@ -1,0 +1,109 @@
+{
+  "script_list": [
+    {
+      "script_text": "罗子：我叫罗子，请多关照。",
+      "vocab": [
+        {
+          "SC_vocab": "关照",
+          "TC_vocab": "關照",
+          "english_meaning": "care"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：我…我叫…我该如何赔礼…",
+      "vocab": [
+        {
+          "SC_vocab": "赔礼",
+          "TC_vocab": "賠禮",
+          "english_meaning": "apologize"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：好好相处。",
+      "vocab": [
+        {
+          "SC_vocab": "相处",
+          "TC_vocab": "相處",
+          "english_meaning": "get along"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：等等…哆啦A梦！",
+      "vocab": []
+    },
+
+    {
+      "script_text": "大雄：那么漂亮的女孩子，愿意跟我做朋友吗？",
+      "vocab": [
+        {
+          "SC_vocab": "漂亮",
+          "TC_vocab": "漂亮",
+          "english_meaning": "beautiful"
+        },
+        {
+          "SC_vocab": "愿意",
+          "TC_vocab": "願意",
+          "english_meaning": "willing"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：放心吧，她是一个机器人朋友。",
+      "vocab": [
+        {
+          "SC_vocab": "机器人",
+          "TC_vocab": "機器人",
+          "english_meaning": "robot"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：我已经设定好了，她就只喜欢你一个。",
+      "vocab": [
+        {
+          "SC_vocab": "设定",
+          "TC_vocab": "設定",
+          "english_meaning": "to set up"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：你真的要和我交朋友吗？",
+      "vocab": [
+        {
+          "SC_vocab": "交朋友",
+          "TC_vocab": "交朋友",
+          "english_meaning": "make friends"
+        }
+      ]
+    },
+    {
+      "script_text": "罗子：当然了。",
+      "vocab": [
+        {
+          "SC_vocab": "当然",
+          "TC_vocab": "當然",
+          "english_meaning": "of course"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：可是，我……学习成绩不好，体育也很差。",
+      "vocab": [
+        {
+          "SC_vocab": "体育",
+          "TC_vocab": "體育",
+          "english_meaning": "PE"
+        },
+        {
+          "SC_vocab": "成绩",
+          "TC_vocab": "成績",
+          "english_meaning": "grades"
+        }
+      ]
+    }
+  ]
+}

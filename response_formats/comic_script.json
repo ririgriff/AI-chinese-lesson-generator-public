@@ -1,0 +1,38 @@
+{
+  "type": "json_schema",
+  "json_schema": {
+    "name": "script_list",
+    "schema": {
+      "type": "object",
+      "properties": {
+        "script_list": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "script_text": { "type": "string" },
+              "vocab": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "SC_vocab": { "type": "string" },
+                    "TC_vocab": { "type": "string" },
+                    "english_meaning": { "type": "string" }
+                  },
+                  "required": ["SC_vocab", "TC_vocab", "english_meaning"],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": ["script_text", "vocab"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": ["script_list"],
+      "additionalProperties": false
+    },
+    "strict": true
+  }
+}

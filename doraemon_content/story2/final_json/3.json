@@ -1,0 +1,117 @@
+{
+  "script_list": [
+    {
+      "script_text": "静香：哎呀，你当真了？",
+      "vocab": [
+        {
+          "SC_vocab": "当真",
+          "TC_vocab": "當真",
+          "english_meaning": "really"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：当然喽。",
+      "vocab": [
+        {
+          "SC_vocab": "当然",
+          "TC_vocab": "當然",
+          "english_meaning": "of course"
+        },
+        {
+          "SC_vocab": "喽",
+          "TC_vocab": "喽",
+          "english_meaning": "show emphasis"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：大家怎么还没来呀？",
+      "vocab": [
+        {
+          "SC_vocab": "还",
+          "TC_vocab": "還",
+          "english_meaning": "still"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：我这就去叫她们。",
+      "vocab": []
+    },
+    {
+      "script_text": "静香：是呀，我也只是开个玩笑罢了。",
+      "vocab": [
+        {
+          "SC_vocab": "玩笑",
+          "TC_vocab": "玩笑",
+          "english_meaning": "joke"
+        },
+        {
+          "SC_vocab": "罢了",
+          "TC_vocab": "罷了",
+          "english_meaning": "that's all"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：不过，大雄好不容易来了。",
+      "vocab": [
+        {
+          "SC_vocab": "不容易",
+          "TC_vocab": "不容易",
+          "english_meaning": "not easy"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：请进！",
+      "vocab": []
+    },
+    {
+      "script_text": "静香：真棒。",
+      "vocab": [
+        {
+          "SC_vocab": "真棒",
+          "TC_vocab": "真棒",
+          "english_meaning": "great"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：我先来做个示范。",
+      "vocab": [
+        {
+          "SC_vocab": "示范",
+          "TC_vocab": "示範",
+          "english_meaning": "demonstration"
+        }
+      ]
+    },
+    {
+      "script_text": "小夫：我买了好玩的游戏，还需要三个人。",
+      "vocab": [
+        {
+          "SC_vocab": "游戏",
+          "TC_vocab": "遊戲",
+          "english_meaning": "game"
+        }
+      ]
+    },
+    {
+      "script_text": "小夫：到我家来玩吗？",
+      "vocab": []
+    },
+
+    {
+      "script_text": "众人：好 好！！",
+      "vocab": [
+        {
+          "SC_vocab": "众人",
+          "TC_vocab": "眾人",
+          "english_meaning": "everyone"
+        }
+      ]
+    }
+  ]
+}

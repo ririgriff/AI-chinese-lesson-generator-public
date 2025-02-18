@@ -1,0 +1,103 @@
+{
+  "script_list": [
+    {
+      "script_text": "大雄：没见我这么着急吗？",
+      "vocab": [
+        { "SC_vocab": "着急", "TC_vocab": "著急", "english_meaning": "worried" }
+      ]
+    },
+    {
+      "script_text": "大雄：喂，你不帮帮我吗？",
+      "vocab": [
+        { "SC_vocab": "帮", "TC_vocab": "幫", "english_meaning": "help" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：无聊！",
+      "vocab": [
+        { "SC_vocab": "无聊", "TC_vocab": "無聊", "english_meaning": "boring" }
+      ]
+    },
+    {
+      "script_text": "大雄：真的肯帮我？",
+      "vocab": [
+        { "SC_vocab": "真的", "TC_vocab": "真的", "english_meaning": "really" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那好，用这个电风扇...",
+      "vocab": [
+        {
+          "SC_vocab": "电风扇",
+          "TC_vocab": "電風扇",
+          "english_meaning": "electric fan"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：这样下去，可要得零分了呀。",
+      "vocab": [
+        {
+          "SC_vocab": "零分",
+          "TC_vocab": "零分",
+          "english_meaning": "zero points"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那用这个一动灯，把老师变成猿师一动……猿！",
+      "vocab": [
+        { "SC_vocab": "老师", "TC_vocab": "老師", "english_meaning": "teacher" }
+      ]
+    },
+    {
+      "script_text": "大雄：你认真些好吗？",
+      "vocab": [
+        { "SC_vocab": "认真", "TC_vocab": "認真", "english_meaning": "serious" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那怎么办呢！",
+      "vocab": [
+        {
+          "SC_vocab": "怎么办",
+          "TC_vocab": "怎麼辦",
+          "english_meaning": "what to do"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：把学校吹走就不会有测验了。",
+      "vocab": [
+        { "SC_vocab": "测验", "TC_vocab": "測驗", "english_meaning": "test" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那怎么行呢！",
+      "vocab": [
+        { "SC_vocab": "行", "TC_vocab": "行", "english_meaning": "okay" }
+      ]
+    },
+    {
+      "script_text": "大雄：以后我一定好好学习，就帮我这一回吧。",
+      "vocab": [
+        {
+          "SC_vocab": "好好学习",
+          "TC_vocab": "好好學習",
+          "english_meaning": "study hard"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：这都怪你平常不认真学习。",
+      "vocab": [
+        {
+          "SC_vocab": "平常",
+          "TC_vocab": "平常",
+          "english_meaning": "usually"
+        },
+        { "SC_vocab": "认真", "TC_vocab": "認真", "english_meaning": "serious" }
+      ]
+    }
+  ]
+}

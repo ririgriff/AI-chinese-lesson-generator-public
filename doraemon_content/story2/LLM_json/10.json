@@ -1,0 +1,60 @@
+{
+  "script_list": [
+    {
+      "script_text": "胖虎：啊！真可爱。",
+      "vocab": [
+        {
+          "SC_vocab": "可爱",
+          "TC_vocab": "可愛",
+          "english_meaning": "cute"
+        }
+      ]
+    },
+    {
+      "script_text": "胖虎：这么可爱的女孩子怎么会和大雄在一起？太便宜大雄了。",
+      "vocab": [
+        {
+          "SC_vocab": "便宜",
+          "TC_vocab": "便宜",
+          "english_meaning": "cheap"
+        }
+      ]
+    },
+    {
+      "script_text": "小夫：用石头砸他。",
+      "vocab": [
+        {
+          "SC_vocab": "石头",
+          "TC_vocab": "石頭",
+          "english_meaning": "stone"
+        },
+        {
+          "SC_vocab": "砸",
+          "TC_vocab": "砸",
+          "english_meaning": "to throw"
+        }
+      ]
+    },
+
+    {
+      "script_text": "女孩：想欺负大雄，我可不答应！",
+      "vocab": [
+        {
+          "SC_vocab": "欺负",
+          "TC_vocab": "欺負",
+          "english_meaning": "bully"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：住手！快住手！",
+      "vocab": [
+        {
+          "SC_vocab": "住手",
+          "TC_vocab": "住手",
+          "english_meaning": "stop"
+        }
+      ]
+    }
+  ]
+}

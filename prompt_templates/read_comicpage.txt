@@ -1,0 +1,31 @@
+I'm going to give you a page from a Doraemon comic book in chinese.  \
+I would like you to extract the text out in the form of a script and \
+to highlight the vocabulary .  \
+Make sure that the pages are processed in the correct sequence.\
+As this is a chinese book, it should be read from right to left, top to bottom.
+I would like the output to be formatted in json format as specified.  \
+The script_text should be like this, anotated with the name of the speaker:  \"大雄：看起来一点儿关系都没有。\" \
+You should extract from 0 to 2 vocabulary from the script_text.  Each vocabulary should be no more than 4 chinese characters long.\
+For each vocabulary, show the simplified chinese version under SC_vocab, show the traditional chinese version under TC_vocab \
+and a simple english meaning suitable for 9 year olds under english_meaning.  
+below is an example:  
+
+\"\"\"
+
+{
+      "script_text": "大雄：看起来一点儿关系都没有。",
+      "vocab": [
+        {
+          "SC_vocab": "看起来",
+          "TC_vocab": "看起來",
+          "english_meaning": "it looks like"
+        },
+        {
+          "SC_vocab": "关系",
+          "TC_vocab": "關係",
+          "english_meaning": "relationship"
+        }
+      ]
+    }
+
+    \"\"\"

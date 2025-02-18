@@ -1,0 +1,769 @@
+{
+  "script_list": [
+    {
+      "script_text": "标题：背书面包",
+      "vocab": [
+        {
+          "SC_vocab": "背书",
+          "TC_vocab": "背書",
+          "english_meaning": "to memorize"
+        },
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    { "script_text": "旁白：6x4=24  2x3=6", "vocab": [] },
+    { "script_text": "旁白：5x5=25  5x2=10", "vocab": [] },
+    { "script_text": "旁白：7x8=56  7x7=49", "vocab": [] },
+    { "script_text": "旁白：9x4=36  9x3=27", "vocab": [] },
+    { "script_text": "旁白：12÷3=4  12÷4=3", "vocab": [] },
+    { "script_text": "旁白：45÷5=9  32÷8=4", "vocab": [] },
+    {
+      "script_text": "大雄：怎么办？？怎么办？？",
+      "vocab": [
+        {
+          "SC_vocab": "怎么办",
+          "TC_vocab": "怎麼辦",
+          "english_meaning": "What do I do?"
+        }
+      ]
+    },
+    { "script_text": "大雄：怎么办啊？", "vocab": [] },
+    {
+      "script_text": "哆啦A梦：嗯……完全想不通。",
+      "vocab": [
+        {
+          "SC_vocab": "想不通",
+          "TC_vocab": "想不通",
+          "english_meaning": "can't figure it out"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：你到底是在发什么愁啊？",
+      "vocab": [
+        { "SC_vocab": "发愁", "TC_vocab": "發愁", "english_meaning": "worry" },
+        { "SC_vocab": "到底", "TC_vocab": "到底", "english_meaning": "exactly" }
+      ]
+    },
+    {
+      "script_text": "大雄：明天算术、语文都要测验了。",
+      "vocab": [
+        {
+          "SC_vocab": "算术",
+          "TC_vocab": "算術",
+          "english_meaning": "arithmetic"
+        },
+        { "SC_vocab": "测验", "TC_vocab": "測驗", "english_meaning": "test" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：可你拿着水壶和枕头干什么？",
+      "vocab": [
+        {
+          "SC_vocab": "水壶",
+          "TC_vocab": "水壺",
+          "english_meaning": "water kettle"
+        },
+        { "SC_vocab": "枕头", "TC_vocab": "枕頭", "english_meaning": "pillow" }
+      ]
+    },
+    {
+      "script_text": "大雄：看起来一点儿关系都没有。",
+      "vocab": [
+        {
+          "SC_vocab": "看起来",
+          "TC_vocab": "看起來",
+          "english_meaning": "it looks like"
+        },
+        {
+          "SC_vocab": "关系",
+          "TC_vocab": "關係",
+          "english_meaning": "relationship"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：就是说，我着急得都分不清东西了。",
+      "vocab": [
+        {
+          "SC_vocab": "着急",
+          "TC_vocab": "著急",
+          "english_meaning": "anxious"
+        },
+        { "SC_vocab": "东西", "TC_vocab": "東西", "english_meaning": "things" }
+      ]
+    },
+    {
+      "script_text": "大雄：没见我这么着急吗？",
+      "vocab": [
+        { "SC_vocab": "着急", "TC_vocab": "著急", "english_meaning": "worried" }
+      ]
+    },
+    {
+      "script_text": "大雄：喂，你不帮帮我吗？",
+      "vocab": [
+        { "SC_vocab": "帮", "TC_vocab": "幫", "english_meaning": "help" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：无聊！",
+      "vocab": [
+        { "SC_vocab": "无聊", "TC_vocab": "無聊", "english_meaning": "boring" }
+      ]
+    },
+    {
+      "script_text": "大雄：真的肯帮我？",
+      "vocab": [
+        { "SC_vocab": "真的", "TC_vocab": "真的", "english_meaning": "really" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那好，用这个电风扇...",
+      "vocab": [
+        {
+          "SC_vocab": "电风扇",
+          "TC_vocab": "電風扇",
+          "english_meaning": "electric fan"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：这样下去，可要得零分了呀。",
+      "vocab": [
+        {
+          "SC_vocab": "零分",
+          "TC_vocab": "零分",
+          "english_meaning": "zero points"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那用这个一动灯，把老师变成猿师一动……猿！",
+      "vocab": [
+        { "SC_vocab": "老师", "TC_vocab": "老師", "english_meaning": "teacher" }
+      ]
+    },
+    {
+      "script_text": "大雄：你认真些好吗？",
+      "vocab": [
+        { "SC_vocab": "认真", "TC_vocab": "認真", "english_meaning": "serious" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那怎么办呢！",
+      "vocab": [
+        {
+          "SC_vocab": "怎么办",
+          "TC_vocab": "怎麼辦",
+          "english_meaning": "what to do"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：把学校吹走就不会有测验了。",
+      "vocab": [
+        { "SC_vocab": "测验", "TC_vocab": "測驗", "english_meaning": "test" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：那怎么行呢！",
+      "vocab": [
+        { "SC_vocab": "行", "TC_vocab": "行", "english_meaning": "okay" }
+      ]
+    },
+    {
+      "script_text": "大雄：以后我一定好好学习，就帮我这一回吧。",
+      "vocab": [
+        {
+          "SC_vocab": "好好学习",
+          "TC_vocab": "好好學習",
+          "english_meaning": "study hard"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：这都怪你平常不认真学习。",
+      "vocab": [
+        { "SC_vocab": "平常", "TC_vocab": "平常", "english_meaning": "usually" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：用这个「一背书面包」吧。",
+      "vocab": [
+        {
+          "SC_vocab": "背书",
+          "TC_vocab": "背書",
+          "english_meaning": "to memorize"
+        },
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：把它放在本子上。",
+      "vocab": [
+        {
+          "SC_vocab": "本子",
+          "TC_vocab": "本子",
+          "english_meaning": "notebook"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：印上了。",
+      "vocab": [
+        {
+          "SC_vocab": "印上",
+          "TC_vocab": "印上",
+          "english_meaning": "to print on"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：这样就能把一整页的东西都记住了！",
+      "vocab": [
+        {
+          "SC_vocab": "记住",
+          "TC_vocab": "記住",
+          "english_meaning": "to remember"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：真的？",
+      "vocab": [
+        { "SC_vocab": "真的", "TC_vocab": "真的", "english_meaning": "really" }
+      ]
+    },
+    { "script_text": "大雄：？", "vocab": [] },
+    {
+      "script_text": "哆啦A梦：去，吃下。",
+      "vocab": [
+        { "SC_vocab": "吃下", "TC_vocab": "吃下", "english_meaning": "to eat" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：二乘以几等于六？",
+      "vocab": [
+        {
+          "SC_vocab": "乘以",
+          "TC_vocab": "乘以",
+          "english_meaning": "multiplied by"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：试试看吧。",
+      "vocab": [
+        {
+          "SC_vocab": "试试看",
+          "TC_vocab": "試試看",
+          "english_meaning": "to try it out"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：瞧，成了吧。",
+      "vocab": [
+        {
+          "SC_vocab": "成了",
+          "TC_vocab": "成了",
+          "english_meaning": "it's done"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：乘以三！",
+      "vocab": [
+        {
+          "SC_vocab": "乘以三",
+          "TC_vocab": "乘以三",
+          "english_meaning": "multiplied by three"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：这下可得救了。",
+      "vocab": [
+        {
+          "SC_vocab": "得救",
+          "TC_vocab": "得救",
+          "english_meaning": "be saved"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：像这样把算术、语文书和练习册的内容都背下来了，总会有作用的。",
+      "vocab": [
+        {
+          "SC_vocab": "算术",
+          "TC_vocab": "算術",
+          "english_meaning": "arithmetic"
+        },
+        { "SC_vocab": "作用", "TC_vocab": "作用", "english_meaning": "use" }
+      ]
+    },
+    {
+      "script_text": "大雄：哎呀，这里最重要的一页不见了。",
+      "vocab": [
+        {
+          "SC_vocab": "最重要",
+          "TC_vocab": "最重要",
+          "english_meaning": "the most important"
+        }
+      ]
+    },
+    { "script_text": "哆啦A梦：瞪你干的！", "vocab": [] },
+    {
+      "script_text": "大雄：对了，上次想擦鼻涕时，没有纸就把它撕下来了。",
+      "vocab": [
+        {
+          "SC_vocab": "擦鼻涕",
+          "TC_vocab": "擦鼻涕",
+          "english_meaning": "wipe your nose"
+        },
+        {
+          "SC_vocab": "撕下来",
+          "TC_vocab": "撕下來",
+          "english_meaning": "tear off"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：去借印朋友的笔记吧。",
+      "vocab": [
+        { "SC_vocab": "笔记", "TC_vocab": "筆記", "english_meaning": "notes" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：把背书面包都给你。",
+      "vocab": [
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    {
+      "script_text": "大雄：印在面包上怎么吃得下呢？",
+      "vocab": [
+        { "SC_vocab": "怎么", "TC_vocab": "怎麼", "english_meaning": "how" }
+      ]
+    },
+    {
+      "script_text": "小夫：这说明我用功嘛。",
+      "vocab": [
+        {
+          "SC_vocab": "用功",
+          "TC_vocab": "用功",
+          "english_meaning": "study hard"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：怎么写得这么乱？",
+      "vocab": [
+        {
+          "SC_vocab": "这么乱",
+          "TC_vocab": "這麼亂",
+          "english_meaning": "so messy"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：还是静香的本子整齐干净，把这些全都记下来。",
+      "vocab": [
+        { "SC_vocab": "整齐", "TC_vocab": "整齊", "english_meaning": "neat" },
+        { "SC_vocab": "干净", "TC_vocab": "乾淨", "english_meaning": "clean" }
+      ]
+    },
+    {
+      "script_text": "静香：要能那么简单也不用这么辛苦了。",
+      "vocab": [
+        { "SC_vocab": "简单", "TC_vocab": "簡單", "english_meaning": "easy" }
+      ]
+    },
+    {
+      "script_text": "大雄：记东西我可是有自信。",
+      "vocab": [
+        {
+          "SC_vocab": "自信",
+          "TC_vocab": "自信",
+          "english_meaning": "confidence"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：你可是班里记性最差的呀！",
+      "vocab": [
+        { "SC_vocab": "记性", "TC_vocab": "記性", "english_meaning": "memory" }
+      ]
+    },
+    {
+      "script_text": "静香：不信？看我的，就用这电话本...",
+      "vocab": [
+        {
+          "SC_vocab": "电话本",
+          "TC_vocab": "電話本",
+          "english_meaning": "phone book"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：第一页的我全记住了。",
+      "vocab": [
+        {
+          "SC_vocab": "第一页",
+          "TC_vocab": "第一頁",
+          "english_meaning": "first page"
+        }
+      ]
+    },
+    { "script_text": "静香：？", "vocab": [] },
+    {
+      "script_text": "静香：哇！全对了。",
+      "vocab": [
+        {
+          "SC_vocab": "全对",
+          "TC_vocab": "全對",
+          "english_meaning": "all correct"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：小意思，小意思。",
+      "vocab": [
+        {
+          "SC_vocab": "小意思",
+          "TC_vocab": "小意思",
+          "english_meaning": "piece of cake"
+        }
+      ]
+    },
+    { "script_text": "大雄：999……", "vocab": [] },
+    { "script_text": "静香：柿久家的呢？", "vocab": [] },
+    { "script_text": "大雄：1234567？", "vocab": [] },
+    {
+      "script_text": "大雄：井上男的电话是……",
+      "vocab": [
+        { "SC_vocab": "电话", "TC_vocab": "電話", "english_meaning": "phone" }
+      ]
+    },
+    {
+      "script_text": "大雄：测验一定要拿一百分。",
+      "vocab": [
+        { "SC_vocab": "测验", "TC_vocab": "測驗", "english_meaning": "test" },
+        {
+          "SC_vocab": "一百分",
+          "TC_vocab": "一百分",
+          "english_meaning": "100 points"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：嗯，真羡慕。",
+      "vocab": [
+        { "SC_vocab": "羡慕", "TC_vocab": "羨慕", "english_meaning": "envy" }
+      ]
+    },
+    {
+      "script_text": "妈妈：来，吃点心吧。",
+      "vocab": [
+        { "SC_vocab": "点心", "TC_vocab": "點心", "english_meaning": "snacks" }
+      ]
+    },
+    {
+      "script_text": "大雄：那，开始奋斗吧。",
+      "vocab": [
+        {
+          "SC_vocab": "开始",
+          "TC_vocab": "開始",
+          "english_meaning": "to start"
+        },
+        {
+          "SC_vocab": "奋斗",
+          "TC_vocab": "奮鬥",
+          "english_meaning": "work hard"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：你光吃点心看漫画，就不学习了吗？",
+      "vocab": [
+        { "SC_vocab": "点心", "TC_vocab": "點心", "english_meaning": "snacks" },
+        { "SC_vocab": "学习", "TC_vocab": "學習", "english_meaning": "study" }
+      ]
+    },
+    {
+      "script_text": "大雄：嗯，这艾糕可真好吃。",
+      "vocab": [
+        {
+          "SC_vocab": "艾糕",
+          "TC_vocab": "艾糕",
+          "english_meaning": "mugwort cake"
+        },
+        { "SC_vocab": "好吃", "TC_vocab": "好吃", "english_meaning": "tasty" }
+      ]
+    },
+    {
+      "script_text": "大雄：贴上背书面包。",
+      "vocab": [
+        {
+          "SC_vocab": "背书",
+          "TC_vocab": "背書",
+          "english_meaning": "memorize"
+        },
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    { "script_text": "大雄：啊……", "vocab": [] },
+    {
+      "script_text": "大雄：肚子太饱，吃不下了。",
+      "vocab": [
+        {
+          "SC_vocab": "肚子",
+          "TC_vocab": "肚子",
+          "english_meaning": "stomach"
+        },
+        {
+          "SC_vocab": "太饱",
+          "TC_vocab": "太飽",
+          "english_meaning": "too full"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：对不起，把本子借我用一下。",
+      "vocab": [
+        {
+          "SC_vocab": "对不起",
+          "TC_vocab": "對不起",
+          "english_meaning": "sorry"
+        },
+        {
+          "SC_vocab": "本子",
+          "TC_vocab": "本子",
+          "english_meaning": "notebook"
+        }
+      ]
+    },
+    {
+      "script_text": "爸爸：哪儿去了？该吃饭了。 大雄：我不想吃。",
+      "vocab": [
+        {
+          "SC_vocab": "吃饭",
+          "TC_vocab": "吃飯",
+          "english_meaning": "to eat a meal"
+        },
+        {
+          "SC_vocab": "不想",
+          "TC_vocab": "不想",
+          "english_meaning": "do not want"
+        }
+      ]
+    },
+    {
+      "script_text": "爸爸：你不想吃爸爸做的饭？",
+      "vocab": [
+        { "SC_vocab": "爸爸", "TC_vocab": "爸爸", "english_meaning": "dad" }
+      ]
+    },
+    {
+      "script_text": "爸爸：今天是母亲节。 妈妈：真是太好吃了。",
+      "vocab": [
+        {
+          "SC_vocab": "母亲节",
+          "TC_vocab": "母親節",
+          "english_meaning": "Mother's Day"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：啊……再也吃不进去了。",
+      "vocab": [
+        {
+          "SC_vocab": "再也",
+          "TC_vocab": "再也",
+          "english_meaning": "no longer"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：都记住了吗？",
+      "vocab": [
+        {
+          "SC_vocab": "记住",
+          "TC_vocab": "記住",
+          "english_meaning": "remember"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：没有。",
+      "vocab": [
+        { "SC_vocab": "没有", "TC_vocab": "沒有", "english_meaning": "no" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：我好心好意给了你面包，你却……",
+      "vocab": [
+        {
+          "SC_vocab": "好心好意",
+          "TC_vocab": "好心好意",
+          "english_meaning": "with good intentions"
+        },
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    {
+      "script_text": "大雄：我把本子借来了，现在就开始记。",
+      "vocab": [
+        {
+          "SC_vocab": "本子",
+          "TC_vocab": "本子",
+          "english_meaning": "notebook"
+        },
+        {
+          "SC_vocab": "开始",
+          "TC_vocab": "開始",
+          "english_meaning": "to start"
+        }
+      ]
+    },
+    { "script_text": "大雄：嗯……", "vocab": [] },
+    {
+      "script_text": "哆啦A梦：快喝水喝下去。",
+      "vocab": [
+        {
+          "SC_vocab": "喝水",
+          "TC_vocab": "喝水",
+          "english_meaning": "drink water"
+        }
+      ]
+    },
+    { "script_text": "大雄：噗……", "vocab": [] },
+    {
+      "script_text": "大雄：实在吃不下了。",
+      "vocab": [
+        {
+          "SC_vocab": "吃不下",
+          "TC_vocab": "吃不下",
+          "english_meaning": "can't eat"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：无论如何也要让你吃下去。",
+      "vocab": [
+        {
+          "SC_vocab": "无论如何",
+          "TC_vocab": "無論如何",
+          "english_meaning": "no matter what"
+        },
+        {
+          "SC_vocab": "吃下去",
+          "TC_vocab": "吃下去",
+          "english_meaning": "to swallow it"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：受不了了！",
+      "vocab": [
+        {
+          "SC_vocab": "受不了",
+          "TC_vocab": "受不了",
+          "english_meaning": "can't stand it"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：难道你想得零分吗？",
+      "vocab": [
+        {
+          "SC_vocab": "零分",
+          "TC_vocab": "零分",
+          "english_meaning": "zero score"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：我不行了。",
+      "vocab": [
+        {
+          "SC_vocab": "不行",
+          "TC_vocab": "不行",
+          "english_meaning": "cannot do it"
+        }
+      ]
+    },
+    {
+      "script_text": "旁白：第三天早晨。",
+      "vocab": [
+        { "SC_vocab": "早晨", "TC_vocab": "早晨", "english_meaning": "morning" }
+      ]
+    },
+    {
+      "script_text": "父亲：好了吗？",
+      "vocab": [
+        {
+          "SC_vocab": "好了吗",
+          "TC_vocab": "好了嗎",
+          "english_meaning": "Are you ready?"
+        }
+      ]
+    },
+    {
+      "script_text": "母亲：还没呢！",
+      "vocab": [
+        { "SC_vocab": "还没", "TC_vocab": "還沒", "english_meaning": "not yet" }
+      ]
+    },
+    {
+      "script_text": "父亲：快出来啊。",
+      "vocab": [
+        {
+          "SC_vocab": "快出来",
+          "TC_vocab": "快出來",
+          "english_meaning": "hurry out"
+        }
+      ]
+    },
+    {
+      "script_text": "父亲：什么？大雄在厕所呆了一小时了？",
+      "vocab": [
+        { "SC_vocab": "厕所", "TC_vocab": "廁所", "english_meaning": "toilet" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：吃得太多，坏肚子了吗？糟了……",
+      "vocab": [
+        {
+          "SC_vocab": "坏肚子",
+          "TC_vocab": "壞肚子",
+          "english_meaning": "stomach upset"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：把记下的东西都给拉出来了。",
+      "vocab": [
+        {
+          "SC_vocab": "记下",
+          "TC_vocab": "記下",
+          "english_meaning": "to note down"
+        }
+      ]
+    },
+    {
+      "script_text": "母亲：学习真苦哇！",
+      "vocab": [
+        { "SC_vocab": "学习", "TC_vocab": "學習", "english_meaning": "study" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：只好从第一页起重新吃。",
+      "vocab": [
+        { "SC_vocab": "重新", "TC_vocab": "重新", "english_meaning": "again" }
+      ]
+    }
+  ],
+  "title": "第一卷",
+  "subtitle": "第一课：背书面包"
+}

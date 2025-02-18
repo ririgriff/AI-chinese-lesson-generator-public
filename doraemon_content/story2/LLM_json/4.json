@@ -1,0 +1,98 @@
+{
+  "script_list": [
+    {
+      "script_text": "静香：可是……。",
+      "vocab": []
+    },
+    {
+      "script_text": "大雄：不用管我。",
+      "vocab": [
+        {
+          "SC_vocab": "管",
+          "TC_vocab": "管",
+          "english_meaning": "to care"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：对不起呀，你慢慢坐。",
+      "vocab": [
+        {
+          "SC_vocab": "慢慢",
+          "TC_vocab": "慢慢",
+          "english_meaning": "slowly"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：打扰了。",
+      "vocab": [
+        {
+          "SC_vocab": "打扰",
+          "TC_vocab": "打擾",
+          "english_meaning": "to bother"
+        }
+      ]
+    },
+    {
+      "script_text": "（拟声词：吧唧吧唧）",
+      "vocab": [
+        {
+          "SC_vocab": "拟声词",
+          "TC_vocab": "擬聲詞",
+          "english_meaning": "onomatopoeia"
+        },
+        {
+          "SC_vocab": "吧唧",
+          "TC_vocab": "吧唧",
+          "english_meaning": "munching"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：于是，你就一个人在那儿吃了花生？",
+      "vocab": [
+        {
+          "SC_vocab": "于是",
+          "TC_vocab": "於是",
+          "english_meaning": "so then"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：吃得我口干舌燥的.嘻嘻……",
+      "vocab": [
+        {
+          "SC_vocab": "口干舌燥",
+          "TC_vocab": "口乾舌燥",
+          "english_meaning": "dry mouth"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：脸上装作豪不在乎。",
+      "vocab": [
+        {
+          "SC_vocab": "装作",
+          "TC_vocab": "裝作",
+          "english_meaning": "pretend"
+        },
+        {
+          "SC_vocab": "豪不在乎",
+          "TC_vocab": "豪不在乎",
+          "english_meaning": "pretend not to care"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：我明白他心里有多难受。",
+      "vocab": [
+        {
+          "SC_vocab": "难受",
+          "TC_vocab": "難受",
+          "english_meaning": "uncomfortable"
+        }
+      ]
+    }
+  ]
+}

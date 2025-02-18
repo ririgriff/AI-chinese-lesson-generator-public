@@ -1,0 +1,235 @@
+{
+  "FITB_questions": [
+    {
+      "count": 2,
+      "sentence": "静香：是呀，我也只是开个______罢了。",
+      "vocab": "玩笑",
+      "complete_sentence": "静香：是呀，我也只是开个玩笑罢了。",
+      "seg": true
+    },
+    {
+      "count": 3,
+      "sentence": "静香：是呀，我也只是开个玩笑______。",
+      "vocab": "罢了",
+      "complete_sentence": "静香：是呀，我也只是开个玩笑罢了。"
+    },
+    {
+      "count": 4,
+      "sentence": "小夫：我买了好玩的______，还需要三个人。",
+      "vocab": "游戏",
+      "complete_sentence": "小夫：我买了好玩的游戏，还需要三个人。",
+      "seg": true
+    },
+    {
+      "count": 6,
+      "sentence": "大雄：吃得我______的.嘻嘻……",
+      "vocab": "口干舌燥",
+      "complete_sentence": "大雄：吃得我口干舌燥的.嘻嘻……"
+    },
+    {
+      "count": 7,
+      "sentence": "哆啦A梦：我明白他心里有多______。",
+      "vocab": "难受",
+      "complete_sentence": "哆啦A梦：我明白他心里有多难受。"
+    },
+    {
+      "count": 8,
+      "sentence": "哆啦A梦：有女孩子______他是件多难得的事呀。",
+      "vocab": "称赞",
+      "complete_sentence": "哆啦A梦：有女孩子称赞他是件多难得的事呀。"
+    },
+    {
+      "count": 9,
+      "sentence": "哆啦A梦：结果，一下子就被______了。",
+      "vocab": "抛弃",
+      "complete_sentence": "哆啦A梦：结果，一下子就被抛弃了。"
+    },
+    {
+      "count": 10,
+      "sentence": "哆啦A梦：好！我给你______个女朋友吧。",
+      "vocab": "介绍",
+      "complete_sentence": "哆啦A梦：好！我给你介绍个女朋友吧。"
+    },
+    {
+      "count": 11,
+      "sentence": "哆啦A梦：介绍一下，这是来自______世界的罗子小姐。",
+      "vocab": "未来",
+      "complete_sentence": "哆啦A梦：介绍一下，这是来自未来世界的罗子小姐。"
+    },
+    {
+      "count": 13,
+      "sentence": "大雄：那么______的女孩子，愿意跟我做朋友吗？",
+      "vocab": "漂亮",
+      "complete_sentence": "大雄：那么漂亮的女孩子，愿意跟我做朋友吗？"
+    },
+    {
+      "count": 14,
+      "sentence": "大雄：那么漂亮的女孩子，______跟我做朋友吗？",
+      "vocab": "愿意",
+      "complete_sentence": "大雄：那么漂亮的女孩子，愿意跟我做朋友吗？"
+    },
+    {
+      "count": 15,
+      "sentence": "哆啦A梦：放心吧，她是一个______朋友。",
+      "vocab": "机器人",
+      "complete_sentence": "哆啦A梦：放心吧，她是一个机器人朋友。"
+    },
+    {
+      "count": 16,
+      "sentence": "哆啦A梦：我已经______好了，她就只喜欢你一个。",
+      "vocab": "设定",
+      "complete_sentence": "哆啦A梦：我已经设定好了，她就只喜欢你一个。",
+      "seg": true
+    },
+    {
+      "count": 17,
+      "sentence": "大雄：可是，我……学习成绩不好，______也很差。",
+      "vocab": "体育",
+      "complete_sentence": "大雄：可是，我……学习成绩不好，体育也很差。"
+    },
+    {
+      "count": 18,
+      "sentence": "大雄：可是，我……学习______不好，体育也很差。",
+      "vocab": "成绩",
+      "complete_sentence": "大雄：可是，我……学习成绩不好，体育也很差。"
+    },
+    {
+      "count": 19,
+      "sentence": "罗子：你这______，真是个优秀的少年。",
+      "vocab": "谦虚",
+      "complete_sentence": "罗子：你这谦虚，真是个优秀的少年。",
+      "seg": true
+    },
+    {
+      "count": 20,
+      "sentence": "罗子：你这谦虚，真是个______的少年。",
+      "vocab": "优秀",
+      "complete_sentence": "罗子：你这谦虚，真是个优秀的少年。"
+    },
+    {
+      "count": 21,
+      "sentence": "大雄：我______还是头一次听人这么说。",
+      "vocab": "有生以来",
+      "complete_sentence": "大雄：我有生以来还是头一次听人这么说。",
+      "seg": true
+    },
+    {
+      "count": 22,
+      "sentence": "大雄：我有生以来还是______听人这么说。",
+      "vocab": "头一次",
+      "complete_sentence": "大雄：我有生以来还是头一次听人这么说。"
+    },
+    {
+      "count": 23,
+      "sentence": "大雄：对了，我只有一件______的绝活儿。",
+      "vocab": "拿手",
+      "complete_sentence": "大雄：对了，我只有一件拿手的绝活儿。"
+    },
+    {
+      "count": 24,
+      "sentence": "大雄：对了，我只有一件拿手的______。",
+      "vocab": "绝活儿",
+      "complete_sentence": "大雄：对了，我只有一件拿手的绝活儿。"
+    },
+    {
+      "count": 25,
+      "sentence": "大雄：虽然说有些______……可这样也不错嘛。",
+      "vocab": "怪",
+      "complete_sentence": "大雄：虽然说有些怪……可这样也不错嘛。"
+    },
+    {
+      "count": 28,
+      "sentence": "女孩：嗯？作业。 大雄：______看我的作业本。",
+      "vocab": "不许",
+      "complete_sentence": "女孩：嗯？作业。 大雄：不许看我的作业本。"
+    },
+    {
+      "count": 29,
+      "sentence": "大雄：上面全是______的，真不愿给她看。",
+      "vocab": "错",
+      "complete_sentence": "大雄：上面全是错的，真不愿给她看。",
+      "seg": true
+    },
+    {
+      "count": 30,
+      "sentence": "大雄：上面全是错的，真______给她看。",
+      "vocab": "不愿",
+      "complete_sentence": "大雄：上面全是错的，真不愿给她看。"
+    },
+    {
+      "count": 31,
+      "sentence": "罗子：真好！这种错得太有______，太特别了。别人怎么也学不会啊。",
+      "vocab": "个性",
+      "complete_sentence": "罗子：真好！这种错得太有个性，太特别了。别人怎么也学不会啊。"
+    },
+    {
+      "count": 32,
+      "sentence": "罗子：那就写出______老师喜欢的答案。 大雄：老师会生气的。",
+      "vocab": "能让",
+      "complete_sentence": "罗子：那就写出能让老师喜欢的答案。 大雄：老师会生气的。"
+    },
+    {
+      "count": 33,
+      "sentence": "女孩：要出去买东西？ 啊，太______了！",
+      "vocab": "可怜",
+      "complete_sentence": "女孩：要出去买东西？ 啊，太可怜了！"
+    },
+    {
+      "count": 34,
+      "sentence": "大雄：______，______。不能什么事都叫你做。",
+      "vocab": "不行",
+      "complete_sentence": "大雄：不行，不行。不能什么事都叫你做。"
+    },
+    {
+      "count": 35,
+      "sentence": "大雄：不行，不行。不能______都叫你做。",
+      "vocab": "什么事",
+      "complete_sentence": "大雄：不行，不行。不能什么事都叫你做。"
+    },
+    {
+      "count": 36,
+      "sentence": "女孩：你不会______上我以外的人吧？",
+      "vocab": "喜欢",
+      "complete_sentence": "女孩：你不会喜欢上我以外的人吧？"
+    },
+    {
+      "count": 37,
+      "sentence": "胖虎：这么可爱的女孩子怎么会和大雄在一起？太______大雄了。",
+      "vocab": "便宜",
+      "complete_sentence": "胖虎：这么可爱的女孩子怎么会和大雄在一起？太便宜大雄了。"
+    },
+    {
+      "count": 38,
+      "sentence": "绿发女孩：不管是谁______你，我都会保护你的。",
+      "vocab": "欺负",
+      "complete_sentence": "绿发女孩：不管是谁欺负你，我都会保护你的。",
+      "seg": true
+    },
+    {
+      "count": 39,
+      "sentence": "绿发女孩：不管是谁欺负你，我都会______你的。",
+      "vocab": "保护",
+      "complete_sentence": "绿发女孩：不管是谁欺负你，我都会保护你的。"
+    },
+    {
+      "count": 40,
+      "sentence": "大雄：你不能找个______点儿的机器吗？",
+      "vocab": "老实",
+      "complete_sentence": "大雄：你不能找个老实点儿的机器吗？",
+      "seg": true
+    },
+    {
+      "count": 41,
+      "sentence": "哆啦A梦：可是好的______租金很贵的呀。",
+      "vocab": "机器",
+      "complete_sentence": "哆啦A梦：可是好的机器租金很贵的呀。",
+      "seg": true
+    },
+    {
+      "count": 42,
+      "sentence": "哆啦A梦：可是好的机器______很贵的呀。",
+      "vocab": "租金",
+      "complete_sentence": "哆啦A梦：可是好的机器租金很贵的呀。"
+    }
+  ]
+}

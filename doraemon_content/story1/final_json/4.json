@@ -1,0 +1,119 @@
+{
+  "script_list": [
+    {
+      "script_text": "哆啦A梦：用这个「一背书面包」吧。",
+      "vocab": [
+        {
+          "SC_vocab": "背书",
+          "TC_vocab": "背書",
+          "english_meaning": "to memorize"
+        },
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：把它放在本子上。",
+      "vocab": [
+        {
+          "SC_vocab": "本子",
+          "TC_vocab": "本子",
+          "english_meaning": "notebook"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：印上了。",
+      "vocab": [
+        {
+          "SC_vocab": "印上",
+          "TC_vocab": "印上",
+          "english_meaning": "to print on"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：这样就能把一整页的东西都记住了！",
+      "vocab": [
+        {
+          "SC_vocab": "记住",
+          "TC_vocab": "記住",
+          "english_meaning": "to remember"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：真的？",
+      "vocab": [
+        { "SC_vocab": "真的", "TC_vocab": "真的", "english_meaning": "really" }
+      ]
+    },
+    { "script_text": "大雄：？", "vocab": [] },
+    {
+      "script_text": "哆啦A梦：去，吃下。",
+      "vocab": [
+        { "SC_vocab": "吃下", "TC_vocab": "吃下", "english_meaning": "to eat" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：二乘以几等于六？",
+      "vocab": [
+        {
+          "SC_vocab": "乘以",
+          "TC_vocab": "乘以",
+          "english_meaning": "multiplied by"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：试试看吧。",
+      "vocab": [
+        {
+          "SC_vocab": "试试看",
+          "TC_vocab": "試試看",
+          "english_meaning": "to try it out"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：瞧，成了吧。",
+      "vocab": [
+        {
+          "SC_vocab": "成了",
+          "TC_vocab": "成了",
+          "english_meaning": "it's done"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：乘以三！",
+      "vocab": [
+        {
+          "SC_vocab": "乘以三",
+          "TC_vocab": "乘以三",
+          "english_meaning": "multiplied by three"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：这下可得救了。",
+      "vocab": [
+        {
+          "SC_vocab": "得救",
+          "TC_vocab": "得救",
+          "english_meaning": "be saved"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：像这样把算术、语文书和练习册的内容都背下来了，总会有作用的。",
+      "vocab": [
+        {
+          "SC_vocab": "算术",
+          "TC_vocab": "算術",
+          "english_meaning": "arithmetic"
+        },
+        { "SC_vocab": "作用", "TC_vocab": "作用", "english_meaning": "use" }
+      ]
+    }
+  ]
+}

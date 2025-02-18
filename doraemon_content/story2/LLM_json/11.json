@@ -1,0 +1,104 @@
+{
+  "script_list": [
+    {
+      "script_text": "大雄：你的劲可真大呀。",
+      "vocab": [
+        {
+          "SC_vocab": "劲",
+          "TC_vocab": "勁",
+          "english_meaning": "strength"
+        }
+      ]
+    },
+    {
+      "script_text": "绿发女孩：我有百万马力。",
+      "vocab": [
+        {
+          "SC_vocab": "马力",
+          "TC_vocab": "馬力",
+          "english_meaning": "horsepower"
+        },
+        {
+          "SC_vocab": "百万",
+          "TC_vocab": "百萬",
+          "english_meaning": "million"
+        }
+      ]
+    },
+    {
+      "script_text": "绿发女孩：不管是谁欺负你，我都会保护你的。",
+      "vocab": [
+        {
+          "SC_vocab": "欺负",
+          "TC_vocab": "欺負",
+          "english_meaning": "bully"
+        },
+        {
+          "SC_vocab": "保护",
+          "TC_vocab": "保護",
+          "english_meaning": "protect"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：谢...谢谢。",
+      "vocab": []
+    },
+    {
+      "script_text": "静香：啊，大雄。刚才真对不起",
+      "vocab": []
+    },
+    {
+      "script_text": "静香：都怪我不好。",
+      "vocab": []
+    },
+    {
+      "script_text": "粉衣女孩：你一定要原谅我哦。",
+      "vocab": [
+        {
+          "SC_vocab": "原谅",
+          "TC_vocab": "原諒",
+          "english_meaning": "forgive"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：没关系，别放在心上。",
+      "vocab": [
+        {
+          "SC_vocab": "没关系",
+          "TC_vocab": "沒關係",
+          "english_meaning": "no problem"
+        }
+      ]
+    },
+    {
+      "script_text": "静香：再见。",
+      "vocab": [
+        {
+          "SC_vocab": "再见",
+          "TC_vocab": "再見",
+          "english_meaning": "goodbye"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：啊，小狗真可爱。",
+      "vocab": []
+    },
+    {
+      "script_text": "罗子：不许你喜欢它。",
+      "vocab": []
+    },
+    {
+      "script_text": "大雄：知道了。",
+      "vocab": [
+        {
+          "SC_vocab": "知道",
+          "TC_vocab": "知道",
+          "english_meaning": "to know"
+        }
+      ]
+    }
+  ]
+}

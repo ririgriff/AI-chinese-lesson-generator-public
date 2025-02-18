@@ -1,0 +1,123 @@
+{
+  "script_list": [
+    {
+      "script_text": "大雄：啊……再也吃不进去了。",
+      "vocab": [
+        {
+          "SC_vocab": "再也",
+          "TC_vocab": "再也",
+          "english_meaning": "no longer"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：都记住了吗？",
+      "vocab": [
+        {
+          "SC_vocab": "记住",
+          "TC_vocab": "記住",
+          "english_meaning": "remember"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：没有。",
+      "vocab": [
+        { "SC_vocab": "没有", "TC_vocab": "沒有", "english_meaning": "no" }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：我好心好意给了你面包，你却……",
+      "vocab": [
+        {
+          "SC_vocab": "好心好意",
+          "TC_vocab": "好心好意",
+          "english_meaning": "with good intentions"
+        },
+        { "SC_vocab": "面包", "TC_vocab": "麵包", "english_meaning": "bread" }
+      ]
+    },
+    {
+      "script_text": "大雄：我把本子借来了，现在就开始记。",
+      "vocab": [
+        {
+          "SC_vocab": "本子",
+          "TC_vocab": "本子",
+          "english_meaning": "notebook"
+        },
+        {
+          "SC_vocab": "开始",
+          "TC_vocab": "開始",
+          "english_meaning": "to start"
+        }
+      ]
+    },
+    { "script_text": "大雄：嗯……", "vocab": [] },
+    {
+      "script_text": "哆啦A梦：快喝水喝下去。",
+      "vocab": [
+        {
+          "SC_vocab": "喝水",
+          "TC_vocab": "喝水",
+          "english_meaning": "drink water"
+        }
+      ]
+    },
+    { "script_text": "大雄：噗……", "vocab": [] },
+    {
+      "script_text": "大雄：实在吃不下了。",
+      "vocab": [
+        {
+          "SC_vocab": "吃不下",
+          "TC_vocab": "吃不下",
+          "english_meaning": "can't eat"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：无论如何也要让你吃下去。",
+      "vocab": [
+        {
+          "SC_vocab": "无论如何",
+          "TC_vocab": "無論如何",
+          "english_meaning": "no matter what"
+        },
+        {
+          "SC_vocab": "吃下去",
+          "TC_vocab": "吃下去",
+          "english_meaning": "to swallow it"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：受不了了！",
+      "vocab": [
+        {
+          "SC_vocab": "受不了",
+          "TC_vocab": "受不了",
+          "english_meaning": "can't stand it"
+        }
+      ]
+    },
+    {
+      "script_text": "哆啦A梦：难道你想得零分吗？",
+      "vocab": [
+        {
+          "SC_vocab": "零分",
+          "TC_vocab": "零分",
+          "english_meaning": "zero score"
+        }
+      ]
+    },
+    {
+      "script_text": "大雄：我不行了。",
+      "vocab": [
+        {
+          "SC_vocab": "不行",
+          "TC_vocab": "不行",
+          "english_meaning": "cannot do it"
+        }
+      ]
+    }
+  ]
+}
