@@ -119,6 +119,8 @@ Voila! Find your deck in "output_lesson/" folder [output powerpoint deck](output
 
 # Some explanation to what's going on under the hood
 
+![image](diagram2x.png)
+
 ### The key inputs to the code include:
 
 - PNG images of the comic story (1.png ... 12.png)
