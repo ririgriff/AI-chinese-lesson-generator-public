@@ -27,8 +27,6 @@ to get out of the virtual environment after you are done with project, type:
 deactivate
 ```
 
--
-
 ### Install Libraries
 
 - Open Terminal, navigate to project directory and run this command to install the required libraries
